@@ -86,5 +86,4 @@
 **Admin Login**
 ![Screenshot 2024-06-09 103034](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/b29a0ed1-7cd6-46f6-b239-bd75b631cb07)
 
-
---------------------------------------------------**END ,Thank You For Visiting**---------------------------------------------------------
+**END ,Thank You For Visiting**
