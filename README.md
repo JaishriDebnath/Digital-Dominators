@@ -65,8 +65,6 @@
 
  ![Screenshot 2024-06-09 104906](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/eec0fb6c-68ac-45be-8943-334d462ebab3)
 
- **Policies**\
-
 **Leave ,WFH :- Forms with some filled and some empty feild to fill**\
 
  **Profile:- Same as Admin Profile Page**\
