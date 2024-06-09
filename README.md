@@ -10,58 +10,58 @@
 	
 # SIDES\
 
-1. **Client Side Feature – Gallery, Service, Career ,About**
-# Home
+# 1. **Client Side Feature – Gallery, Service, Career ,About**
+## Home
 ![Screenshot 2024-06-09 102714](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/aa79725f-df3f-4f2b-b118-24a847e0118a)
 
 ![Screenshot 2024-06-09 102854](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/e72c7107-de1b-4c8e-99fa-662ddbd16c22)
 
-# Gallery
+## Gallery
 ![Screenshot 2024-06-09 113545](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/6f8c17d6-d17b-492d-8400-da8c2be665fe)
 
-# Service
+## Service
 ![Screenshot 2024-06-09 113649](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/99cf5a35-034b-4564-9491-101013991c62)
 
-# Career
+## Career
 ![Screenshot 2024-06-09 113732](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/9634fe6c-ce17-4c92-b74e-884afa923a36)
 
-# About
+## About
 ![Screenshot 2024-06-09 113626](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/5fed1626-715a-46bf-a9c0-d0d888e41d9b)
 
-2.  **Admin Side Feature - Employees Records , Jobs , Recruitments, Attandance , Company   Leave, Permissions , Payroll ,Profile , Main page setting**
+# 2.  **Admin Side Feature - Employees Records , Jobs , Recruitments, Attandance , Company   Leave, Permissions , Payroll ,Profile , Main page setting**
 
-# Admin Dashboard
+## Admin Dashboard
 
 ![Screenshot 2024-06-09 104556](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/e18b53e9-badf-4225-8cae-fd2af9723ac0)
 
-#  Admin sidebar
+##  Admin sidebar
 
 ![Screenshot 2024-06-09 104636](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/a28f3900-5051-4cc1-bf13-41506ad5305e)
 
-# Employees Records
+## Employees Records
 
 ![Screenshot 2024-06-09 110656](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/ac679ce4-c9ed-4d0b-a760-0e796cbddd0c)
 
-# Attandance Report
+## Attandance Report
 
 ![Screenshot 2024-06-09 110421](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/443be660-a286-4d9c-9225-d2a0c6a68dd0)
 
-# Company
+## Company
 
 ![Screenshot 2024-06-09 111059](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/ff5fb1e7-4eb7-47cc-8e52-aa2256289e3d)
 
-# Profile
+## Profile
 
 ![Screenshot 2024-06-09 111157](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/c368b987-5daf-44f6-b745-bb8a5ef436e3)
 
 
 
-3.	**Employee Side Feature – Dashboard ,Leave ,WFH ,Profile ,Policies**
+# 3.	**Employee Side Feature – Dashboard ,Leave ,WFH ,Profile ,Policies**
  
- # Employee Dashboard
+ ## Employee Dashboard
  ![Screenshot 2024-06-09 104846](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/1feb6707-a665-4377-be6c-94bf8c626e29)
 
- # Employee Sidebar
+ ## Employee Sidebar
 
  ![Screenshot 2024-06-09 104906](https://github.com/JaishriDebnath/Digital-Dominators/assets/170961214/eec0fb6c-68ac-45be-8943-334d462ebab3)
 
