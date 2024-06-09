@@ -8,7 +8,7 @@
 **Some Other Features - QR Attandance System**
 **Login & Registration for Employee and Admin**
 	
-# SIDES\
+# SIDES
 
 # 1. **Client Side Feature – Gallery, Service, Career ,About**
 ## Home
