@@ -88,7 +88,7 @@
 </div>
  </div>
 <ul>
-    
+
 <li>
 <a href="{{url('/Employee/EmployeeDashboard')}}"><img src="{{url('assets/img/home.svg')}}" alt="sidebar_img"><h3>&nbsp;&nbsp;&nbsp;&nbsp;Dashboard</h3></a>
 </li>
@@ -104,10 +104,11 @@
 <li>
 <a href="{{url('/Employee/profileset')}}"><img src="{{url('assets/img/profile.svg')}}" alt="sidebar_img"><h3>&nbsp;&nbsp;&nbsp;&nbsp;Profile</h3></a>
 </li>
-</ul><br>
+
+</ul>
 <ul class="logout">
 <li>
-<a href="{{url('/Employee/logout')}}"><img src="{{url('assets/img/logout.svg')}}" alt="sidebar_img"><h3>&nbsp;&nbsp;&nbsp;&nbsp;Log out</h3></a>
+<a href="{{url('/logout')}}"><img src="{{url('assets/img/logout.svg')}}" alt="sidebar_img">Log out</a>
 </li>
 </ul>
 </div>

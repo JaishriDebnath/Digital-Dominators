@@ -5,7 +5,7 @@
          <div class="header-w3layouts">
             <!--//navigation section -->
             <div class="headr-title text-center">
-               <h1><a class="navbar-brand" href="index.html"><span class="fab fa-servicestack"></span>Employ</a></h1>
+               <h1><a class="navbar-brand">Digital Dominator</a></h1>
                <div class="clearfix"></div>
             </div>
             <nav class="navbar navbar-expand-lg navbar-light">

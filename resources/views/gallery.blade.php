@@ -9,15 +9,21 @@
             <h3 class="title text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3"><b>Our Gallery</b></h3>
          <!---728x90--->
          <div class="row ">    
-@foreach($gallaries as $gallary)
-		   
-               <div class="col-lg-6 col-md-6 ">
-                  <figure class="effect-julia">
-                     <img src="/Gallary/{{$gallary->gallary}}" alt="gallary img" style="width:675px;height: 380px;">
-                  </figure>
-               </div>
-            
-@endforeach
+
+                  
+                     @foreach($gallaries->chunk(3) as $chunk)
+                     <div class="row">
+                        @foreach($chunk as $gallary)
+                    <div class="footer-post d-flex mb-2">
+                        <div class="agileinfo_footer_grid1 mr-2">
+                        <a href="/gallery">
+                           <img src="/Gallary/{{$gallary->gallary}}"  alt="gallary img" style="width:675px;height: 380px;">
+                           </a>
+                        </div>
+                        </div>
+                        @endforeach
+                     </div>
+                        @endforeach
          </div>
          </div>
 		 <!---728x90--->
